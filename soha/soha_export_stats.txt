@@ -1,0 +1,9 @@
+test S1: 1,732,544   candidate pairs: 125,971,861
+stage-2 scored pairs: 8,186,159  -> mean per S1 4.72
+stage-3 scored pairs: 6,730,739  -> mean per S1 3.88
+    france: S1 259,452  all cands/S1 72.98  stage2/S1 7.95  stage3/S1 4.24
+     india: S1 809,986  all cands/S1 73.95  stage2/S1 4.20  stage3/S1 3.79
+        us: S1 663,106  all cands/S1 71.08  stage2/S1 4.11  stage3/S1 3.87
+wrote submissions/soha_france_pairs.tsv.gz: 991,322 pairs, 10.5 MB
+wrote submissions/soha_us_india_20k_each_pairs.tsv.gz: 142,055 pairs, 1.4 MB
+done
